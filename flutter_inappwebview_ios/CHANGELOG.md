@@ -2,6 +2,7 @@
 
 - Updated `flutter_inappwebview_platform_interface` version dependency to `^1.0.10`
 - Fixed Xcode 16 `error: method does not override any method from its superclass`
+- Added privacy manifest for iOS
 
 ## 1.0.12
 
